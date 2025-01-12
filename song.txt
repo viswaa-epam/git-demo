@@ -17,3 +17,10 @@ one more line of commit
 --------------
 
 changes made in feature
+
+--------------
+
+conflict concept
+changes made in main
+
+---------------
