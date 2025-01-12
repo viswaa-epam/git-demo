@@ -13,3 +13,7 @@ moons
 branching begins here
 
 one more line of commit
+
+--------------
+
+changes made in feature
