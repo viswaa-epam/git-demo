@@ -24,3 +24,9 @@ conflict concept
 changes made in main
 
 ---------------
+-------------
+conflict concept in feature
+
+making changes in feature branch
+
+--------------
