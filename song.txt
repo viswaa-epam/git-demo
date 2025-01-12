@@ -17,3 +17,10 @@ one more line of commit
 --------------
 
 changes made in feature
+
+-------------
+conflict concept in feature
+
+making changes in feature branch
+
+--------------
